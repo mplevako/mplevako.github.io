@@ -1,0 +1,13 @@
+remote_theme: aterenin/minima-reboot
+
+title: Personal blog by Max Plevako.
+author: Max Plevako
+
+google_analytics: G-H9WTYXE5GJ
+
+plugins:
+ - jekyll-remote-theme
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - jekyll-redirect-from
+
