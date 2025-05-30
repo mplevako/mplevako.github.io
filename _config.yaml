@@ -3,8 +3,6 @@ remote_theme: aterenin/minima-reboot
 title: Personal blog of Max Plevako.
 author: Max Plevako
 
-google_analytics: G-H9WTYXE5GJ
-
 plugins:
  - jekyll-remote-theme
  - jekyll-seo-tag
