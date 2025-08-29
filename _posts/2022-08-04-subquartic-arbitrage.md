@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "An approach to discovering profitable arbitrage opportunities in subquartic time."
+date: 2022-08-04
 math: true
 ---
 The task of discovering [arbitrage](https://en.wikipedia.org/wiki/Arbitrage) opportunities in trading various financial instruments in several markets appears to have entered into common folklore of not only arbitrageurs, but of the algorithmists also. Nowadays, whenever you search for a solution to it, you inevitably land either on blog posts discussing the quartic solutions based on the idea of a modified version of [Floyd-Warshall algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm) or on a solution of [Sedgewick and Wayne’s arbitrage detection problem](https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/Arbitrage.java.html) finding any one profitable chain using the logarithmic transformation followed by negative cycle detection. And the worst is, the latter is way too often believed to find the most profitable opportunity. Ouch!
