@@ -42,8 +42,8 @@ analytics:
   goatcounter:
     id:
   umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+    id: 04620ba6-d3d4-4cc0-9698-b419a0bc9951
+    domain: https://eu.umami.is
   matomo:
     id:
     domain:
